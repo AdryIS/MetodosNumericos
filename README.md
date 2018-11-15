@@ -1,4 +1,4 @@
-# PORTAFOLIO
+# Métodos Numéricos
 
 Un método numérico es un procedimiento mediante el cual se obtiene, casi siempre de manera aproximada, la solución de ciertos problemas realizando cálculos puramente aritméticos y lógicos.
 Son una serie de procedimientos en los que consisten de una lista finita de instrucciones precisas que especifican una secuencia de operaciones algebraicas y lógicas, que producen una solución del problema o una aproximación.
