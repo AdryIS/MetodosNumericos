@@ -4,4 +4,4 @@
 
 Primer Parcial
 
-[Metodo de biseccion](https://github.com/AdryIS/MetodoDeBiseccion)
+[Método de bisección](https://github.com/AdryIS/MetodoDeBiseccion)
