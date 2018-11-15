@@ -21,3 +21,26 @@ Primer Parcial
 
 
 Segundo Parcial
+
+[Funciones con matrices](https://github.com/AdryIS/FuncionesConMatrices)
+
+[Eliminación Gaussiana](https://github.com/AdryIS/EliminacionGaussiana)
+
+[Factorización LU](https://github.com/AdryIS/Factorizacion-LU)
+
+[Newton-Raphson Sistemas de ecuaciones](https://github.com/AdryIS/Newton-Raphson-NoLineal)
+
+[Gauss-Seidel](https://github.com/AdryIS/Gauss-Seidel)
+
+
+Tercer Parcial
+
+[Regresión polinomial](https://github.com/AdryIS/RegresionPolinomial)
+
+[Interpolación polinomial](https://github.com/AdryIS/InterpolacionPolinomial)
+
+[Método de Lagrange](https://github.com/AdryIS/MetodoDeLagrange)
+
+[Integración numérica](https://github.com/AdryIS/IntegracionNumerica)
+
+[Ecuaciones diferenciales- Euler](https://github.com/AdryIS/EcuacionesDiferencial-Euler)
