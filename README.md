@@ -9,9 +9,9 @@ La eficiencia en el cálculo de dicha aproximación depende, en parte, de la fac
 
 Primer Parcial
 
-[Método de bisección](https://github.com/AdryIS/MetodoDeBiseccion)
+  [Método de bisección](https://github.com/AdryIS/MetodoDeBiseccion)
 
-[Convergencia y Divergencia](https://github.com/AdryIS/Convergencia-y-Divergencia)
+  [Convergencia y Divergencia](https://github.com/AdryIS/Convergencia-y-Divergencia)
 
 [Newton-Raphson](https://github.com/AdryIS/Newton-Raphson)
 
