@@ -5,6 +5,8 @@ Son una serie de procedimientos en los que consisten de una lista finita de inst
 La eficiencia en el cálculo de dicha aproximación depende, en parte, de la facilidad de implementación del algoritmo y de las características especiales y limitaciones de los instrumentos de cálculo.
 
 
+
+
 Primer Parcial
 
 [Método de bisección](https://github.com/AdryIS/MetodoDeBiseccion)
@@ -20,6 +22,8 @@ Primer Parcial
 [Método gráfico](https://github.com/AdryIS/MetodoGrafico)
 
 
+
+
 Segundo Parcial
 
 [Funciones con matrices](https://github.com/AdryIS/FuncionesConMatrices)
@@ -31,6 +35,8 @@ Segundo Parcial
 [Newton-Raphson Sistemas de ecuaciones](https://github.com/AdryIS/Newton-Raphson-NoLineal)
 
 [Gauss-Seidel](https://github.com/AdryIS/Gauss-Seidel)
+
+
 
 
 Tercer Parcial
