@@ -4,4 +4,4 @@
 
 Primer Parcial
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Metodo de biseccion](https://github.com/AdryIS/MetodoDeBiseccion)
